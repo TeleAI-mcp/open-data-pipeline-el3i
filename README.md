@@ -1,2 +1,3 @@
-# open-data-pipeline-el3i
-A data processing pipeline for modern development workflows
+# Open Data Pipeline El3I
+
+A data processing pipeline for modern development workflows.
